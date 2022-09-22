@@ -106,19 +106,16 @@ Using Tableau, we created the following visualizations:
 
 - We created our earthquake map with two different maps (Fig a, b) and the earthquake overlay. Then we added the earthquake data in relation to the tectonic plates’ location on the earth, the earthquakes with a magnitude greater than 4.5, and we added the data on a third map (Fig c).
 
-     - [index.html](https://l-aldarondo.github.io/Mapping_Earthquakes/)
+  - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
 
 <br/>
 
 ## References
 
 [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
- 
-[Earthquake data](https://earthquake.usgs.gov/)
- 
-[Mapbox](https://docs.mapbox.com/api/maps/styles/)
+
+[Tableau](https://public.tableau.com/app/discover)
+
+[citibike](https://ride.citibikenyc.com/system-data)
 
 [Leaflet](https://leafletjs.com/examples/quick-start/)
-
-
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
