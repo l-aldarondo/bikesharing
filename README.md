@@ -79,9 +79,9 @@ Using Tableau, we created the following visualizations:
 
 <br/>
 
-(e)![Trips by user](./Images/user_trips_by_gender.png)
+(e)![Trips by gender by weekday](./Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
  
-<sub> Figure (e) Trips by user and weekday
+<sub> Figure (e) Trips by gender by weekday
 
 <br/>
 
