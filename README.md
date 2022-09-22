@@ -1,10 +1,12 @@
 # bikesharing
+
 Using Tableau to create worksheets, dashboards, and stories to visualize data.
 
 ## Background
+
 ### Overview
 
-This project consists of two technical analysis deliverables and a written report to present our results. 
+This project consists of two technical analysis deliverables and a written report to present our results.
 
 - Deliverable 1: Change Trip Duration to a Datetime Format
 
@@ -35,11 +37,13 @@ The purpose of this project is to  to convince investors that a bike-sharing pro
   - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
   
 ## Resources
- 
+
 Data source:
+
 - (1) 201908-citibike-tripdata.csv, (2) NYC_Citibike_Challenge.ipynb
- 
+
 Software:
+
 - Visual Studio Code 1.68.1, HTML, Jupyter Lab 1.6.9, Tableau Desktop Public
  
 <br/>
@@ -80,9 +84,6 @@ Using Tableau, we created the following visualizations:
 <sub> Figure (e) Trips by user and weekday
 
 <br/>
-
-
-
 
 ## Summary
 
