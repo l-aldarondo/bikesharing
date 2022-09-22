@@ -16,7 +16,7 @@ This project consists of two technical analysis deliverables and a written repor
 
 ### Purpose
 
-The purpose of this project is to  to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For that we will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we created a set of visualizations to:
+The purpose of this project is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For that we will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we created a set of visualizations to:
 
 - Q1: Show the length of time that bikes are checked out for all riders and genders
 
@@ -93,7 +93,7 @@ Using Tableau, we created the following visualizations:
 
 - A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
 
-Additional visualizations that you would perform with the given dataset.
+Additional visualizations that we performed with the given dataset.
 
 (f)![Start_stations_map](./Images/start_stations_map.png)
  
