@@ -16,14 +16,11 @@ This project consists of two technical analysis deliverables and a written repor
 
 The purpose of this project is to  to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For that we will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we created a set of visualizations to:
 
-- Show the length of time that bikes are checked out for all riders and genders
+- Q1: Show the length of time that bikes are checked out for all riders and genders
 
-- Show the number of bike trips for all riders and genders for each hour of each day of the week
+- Q2: Show the number of bike trips for all riders and genders for each hour of each day of the week
 
-- Show the number of bike trips for each type of user and gender for each day of the week.
-
-- Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
-
+- Q3: Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Methodology
 
@@ -84,6 +81,19 @@ Using Tableau, we created the following visualizations:
 
 <br/>
 
+
+
+
+## Summary
+
+- A1: Bikes are checkout (on average) 6-7 minutes.
+
+- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
+
+- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
+
+Additional visualizations that you would perform with the given dataset.
+
 (f)![Start_stations_map](./Images/start_stations_map.png)
  
 <sub> Figure (f) Start stations map
@@ -103,15 +113,7 @@ Using Tableau, we created the following visualizations:
 <br/>
 
 
-## Summary
-
-- A1: Bikes are checkout (on average) 6-7 minutes.
-
-- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
-
-- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
-
-- A Dashboard and Story board were created using Tableau Desktop Public.
+- A Dashboard and Storyboard were created using Tableau Desktop Public:
   - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
 
 <br/>
