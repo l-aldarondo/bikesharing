@@ -97,15 +97,21 @@ Using Tableau, we created the following visualizations:
 <br/>
 
 (g)![Total Trips Dashboard](./Images/total_trips_dashboard.png)
- 
+
 <sub> Figure (g) Total Trips Dashboard
 
 <br/>
 
+
 ## Summary
 
-- We created our earthquake map with two different maps (Fig a, b) and the earthquake overlay. Then we added the earthquake data in relation to the tectonic plates’ location on the earth, the earthquakes with a magnitude greater than 4.5, and we added the data on a third map (Fig c).
+- A1: Bikes are checkout (on average) 6-7 minutes.
 
+- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
+
+- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
+
+- A Dashboard and Story board were created using Tableau Desktop Public.
   - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
 
 <br/>
@@ -117,5 +123,3 @@ Using Tableau, we created the following visualizations:
 [Tableau](https://public.tableau.com/app/discover)
 
 [citibike](https://ride.citibikenyc.com/system-data)
-
-[Leaflet](https://leafletjs.com/examples/quick-start/)
