@@ -54,45 +54,51 @@ Using Tableau, we created the following visualizations:
 <br/>
 
 
-(a)![Trip Duration All](./)
+(a)![Trip Duration All](./Images/tripduration_all.png)
  
 <sub> Figure (a) Trip Duration All Users
 
 <br/>
 
-(b)![Trip Duration by Gender](./)
+(b)![Trip Duration by Gender](./Images/tripduration_gender.png)
  
 <sub> Figure (b) Trip Duration by Gender and Weekday
 
 <br/>
 
-(c)![Heatmap all users](./)
+(c)![Heatmap all users](./Images/heatmap_all.png)
  
 <sub> Figure (c) Heatmap all users
 
 <br/>
 
-(d)![Heatmap by gender and weekday](./)
+(d)![Heatmap by gender and weekday](./Images/heatmap_gender.png)
  
 <sub> Figure (d) Heatmap by gender and weekday
 
 <br/>
 
-(e)![Trips by user](./)
+(e)![Trips by user](./Images/user_trips_by_gender.png)
  
 <sub> Figure (e) Trips by user and weekday
 
 <br/>
 
-(f)![Start_stations_map](./)
+(f)![Start_stations_map](./Images/start_stations_map.png)
  
 <sub> Figure (f) Start stations map
 
 <br/>
 
-(g)![bikes for service](./)
+(g)![bikes for service](./Images/bikes_for_service.png)
  
 <sub> Figure (g) Bikes ready for service
+
+<br/>
+
+(g)![Total Trips Dashboard](./Images/total_trips_dashboard.png)
+ 
+<sub> Figure (g) Total Trips Dashboard
 
 <br/>
 
