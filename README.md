@@ -57,13 +57,13 @@ Using Tableau, we created the following visualizations:
 
 (a)![Trip Duration All](./Images/tripduration_all.png)
  
-<sub> Figure (a) Checkout Times for Users
+<sub> Figure (a) Length of time that bikes are checked out for all riders
 
 <br/>
 
 (b)![Trip Duration by Gender](./Images/tripduration_gender.png)
  
-<sub> Figure (b) Checkout Times by Gender
+<sub> Figure (b) Length of time that bikes are checked out by gender.
 
 <br/>
 
