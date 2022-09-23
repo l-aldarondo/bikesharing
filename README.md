@@ -57,31 +57,31 @@ Using Tableau, we created the following visualizations:
 
 (a)![Trip Duration All](./Images/tripduration_all.png)
  
-<sub> Figure (a) Trip Duration All Users
+<sub> Figure (a) Checkout Times for Users
 
 <br/>
 
 (b)![Trip Duration by Gender](./Images/tripduration_gender.png)
  
-<sub> Figure (b) Trip Duration by Gender and Weekday
+<sub> Figure (b) Checkout Times by Gender
 
 <br/>
 
 (c)![Heatmap all users](./Images/heatmap_all.png)
  
-<sub> Figure (c) Heatmap all users
+<sub> Figure (c) Trips by Weekday for Each Hour
 
 <br/>
 
 (d)![Heatmap by gender and weekday](./Images/heatmap_gender.png)
  
-<sub> Figure (d) Heatmap by gender and weekday
+<sub> Figure (d) Trips by Gender (Weekday per Hour)
 
 <br/>
 
 (e)![Trips by gender by weekday](./Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
  
-<sub> Figure (e) Trips by gender by weekday
+<sub> Figure (e) User Trips by Gender by Weekday
 
 <br/>
 
@@ -93,23 +93,35 @@ Using Tableau, we created the following visualizations:
 
 - A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
 
-Additional visualizations that we performed with the given dataset.
+Additional visualizations that we performed with the given dataset:
 
-(f)![Start_stations_map](./Images/start_stations_map.png)
+(f)![trips_by_user_by_gender_weekday](./Images/start_stations_map.png)
  
-<sub> Figure (f) Start stations map
+<sub> Figure (f) Number of bike trips for each type of user and gender for each day of the week.
 
 <br/>
 
-(g)![bikes for service](./Images/bikes_for_service.png)
+(g)![Augus_Peak_Hours](./Images/August_Peak_Hours.png)
  
-<sub> Figure (g) Bikes ready for service
+<sub> Figure (g) August Peak Hours
 
 <br/>
 
-(g)![Total Trips Dashboard](./Images/total_trips_dashboard.png)
+(h)![Start_stations_map](./Images/start_stations_map.png)
+ 
+<sub> Figure (h) Start stations map
 
-<sub> Figure (g) Total Trips Dashboard
+<br/>
+
+(i)![bikes for service](./Images/bikes_for_service.png)
+ 
+<sub> Figure (i) Bikes ready for service
+
+<br/>
+
+(j)![Total Trips Dashboard](./Images/total_trips_dashboard.png)
+
+<sub> Figure (j) Total Trips Dashboard
 
 <br/>
 
