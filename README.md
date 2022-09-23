@@ -95,7 +95,7 @@ Using Tableau, we created the following visualizations:
 
 Additional visualizations that we performed with the given dataset:
 
-(f)![trips_by_user_by_gender_weekday](./Images/start_stations_map.png)
+(f)![trips_by_user_by_gender_weekday](./Images/bike_trips_by_user_by_gender.png)
  
 <sub> Figure (f) Number of bike trips for each type of user and gender for each day of the week.
 
