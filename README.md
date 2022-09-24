@@ -44,13 +44,13 @@ Data source:
 
 Software:
 
-- Visual Studio Code 1.68.1, HTML, Jupyter Lab 1.6.9, Tableau Desktop Public
+- Python 3.7, Visual Studio Code 1.71.2, Jupyter Lab 3.4.3, Tableau Desktop Public
  
 <br/>
 
 ### Results
 
-Using Tableau, we created the following visualizations:
+Using Tableau Desktop Public, we created the following visualizations:
 
 <br/>
 
@@ -121,7 +121,7 @@ Additional visualizations that we performed with the given dataset:
 
 (j)![Total Trips Dashboard](./Images/total_trips_dashboard.png)
 
-<sub> Figure (j) Total Trips Dashboard
+<sub> Figure (j) Total Trips Dashboard Start Stations by Zipcode
 
 <br/>
 
