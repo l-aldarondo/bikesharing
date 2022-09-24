@@ -48,9 +48,18 @@ Software:
  
 <br/>
 
-### Results
+## Results
 
-Using Tableau Desktop Public, we created the following visualizations:
+### D1: Used Pandas to convert "tripduration" column to a datetime:
+
+(a)![Citibike_DataFrame](./Images/citibike_DataFrame.png)
+ 
+<sub> Figure (a) Citibike DataFrame - converted "tripduration" column to a datetime:
+
+<br/>
+
+
+### D2: Using Tableau Desktop Public, we created the following visualizations:
 
 <br/>
 
@@ -85,16 +94,6 @@ Using Tableau Desktop Public, we created the following visualizations:
 
 <br/>
 
-## Summary
-
-- A1: Bikes are checkout (on average) 6-7 minutes.
-
-- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
-
-- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
-
-Additional visualizations that we performed with the given dataset:
-
 (f)![trips_by_user_by_gender_weekday](./Images/bike_trips_by_user_by_gender.png)
  
 <sub> Figure (f) Number of bike trips for each type of user and gender for each day of the week.
@@ -106,6 +105,22 @@ Additional visualizations that we performed with the given dataset:
 <sub> Figure (g) August Peak Hours
 
 <br/>
+
+
+### D3: A Dashboard and Storyboard were created using Tableau Desktop Public:
+- [Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
+
+<br/>
+
+## Summary
+
+- A1: Bikes are checkout (on average) 6-7 minutes.
+
+- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
+
+- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
+
+Additional visualizations that we performed with the given dataset:
 
 (h)![Start_stations_map](./Images/start_stations_map.png)
  
@@ -125,11 +140,6 @@ Additional visualizations that we performed with the given dataset:
 
 <br/>
 
-
-- A Dashboard and Storyboard were created using Tableau Desktop Public:
-  - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/leonardo.aldarondo/viz/CitiBikeStory_16637907027860/CitibikeStory?publish=yes)
-
-<br/>
 
 ## References
 
